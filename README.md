@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto Starwars Planets Search em context api e hooks!
+# Boas vindos ao repositório do projeto Starwars Planets Search em context api e hooks!
 
 Neste projeto ocorre a manipulação de dados em uma tabela através da [API](https://swapi-trybe.herokuapp.com/api/planets/)
 
