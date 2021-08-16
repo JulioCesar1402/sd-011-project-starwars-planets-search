@@ -1,29 +1,28 @@
-# Boas vindos ao repositório do projeto Starwars Planets Search em context api e hooks!
+# Welcome to the Starwars Planets Search project in context api and hooks!
 
-Neste projeto ocorre a manipulação de dados em uma tabela através da [API](https://swapi-trybe.herokuapp.com/api/planets/)
-
----
-
-# Habilidades Trabalhadas
-
-* Utilização da _Context API_ do **React** para gerenciar estado.
-* Utilização do _React Hook useState_;
-* Utilização do _React Hook useContext_;
-* Utilização do _React Hook useEffect_;
-* Criação _React Hooks_ customizados.
+In this project the manipulation of data in a table takes place using [API](https://swapi-trybe.herokuapp.com/api/planets/)
 
 ---
 
-# Instruções para ver o projeto:
+# Skills Worked
 
-1. Clone o repositório
+* Using _Context API_ do **React** to manage state.
+* Using _React Hook useState_;
+* Using _React Hook useContext_;
+* Using _React Hook useEffect_;
+* Creating custom _React Hooks_.
+
+---
+
+# Instructions to view the project:
+
+1. Clone the repository
   * `git clone git@github.com:JulioCesar1402/sd-011-project-starwars-planets-search.git`.
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-project-starwars-planets-search`
+  * Enter the folder of the repository that you have just cloned:
+    * `cd sd-011-project-starwars-planets-search`.
 
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
-    * `npm install`
-  * Inicialize o projeto:
-    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
----
+2. Install the dependencies and start the project
+  * Install the dependencies:
+    * `npm install`.
+  * Start the project:
+    * `npm start` (a new page should open in your browser with plain text).
